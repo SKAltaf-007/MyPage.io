@@ -1,0 +1,22 @@
+.controls {
+    width: auto;
+    display: flex;
+    border: 1px solid #000000;
+    border-top: 0;
+    padding: 10px;
+  }
+  
+  .controls-right {
+    width: 100;
+   
+  }
+  
+  /* .state {
+    margin: 10px 0;
+    font-family: monospace;
+  }
+  
+  .state-title {
+    color: #999;
+    text-transform: uppercase;
+  } */
